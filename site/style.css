@@ -1,0 +1,93 @@
+body {
+	background-color: #232323;
+	margin: 0;
+	font-family: "Montserrat", "Avenir";
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	
+	margin: 0;
+	padding: 20px 20px;
+	font-weight: normal;
+	text-transform: uppercase;
+	line-height: 1.1;
+	transition: background-color 0.6s;
+}
+
+#message {
+	display: inline-block;
+	width: 20%;
+}
+
+#rgb {
+	display: block;
+	font-size: 150%;
+}
+
+.square {
+	width: 30%;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 15%;
+	transition: background-color 0.6s;
+}
+
+#container {
+	margin: 20px auto;
+	max-width: 600px;
+
+}
+
+#newGame {
+	display: inline;
+	
+}
+
+#easy {
+	display: inline;
+}
+
+#hard {
+	display: inline;
+	
+}
+
+.stripe {
+	background-color: white;
+	text-align: center;
+	color: black;
+	height: 30px;
+}
+
+.selected {
+	background-color: steelblue;
+	color: white;
+}
+
+button {
+	border: none;
+	background: none;
+	text-transform: uppercase;
+	height: 100%;
+	font-weight: 700;
+	letter-spacing: 1px;
+	font-size: inherit;
+	color: steelblue;
+	outline: none;
+}
+
+button:hover {
+	background-color: steelblue;
+	color: white;
+	transition: all 0.3s;
+}
+
+
+
+
+
+
+
