@@ -1,0 +1,22 @@
+{
+  "name": "color-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kltjco/color-game.git"
+  },
+  "author": "Kyle Tejuco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kltjco/color-game/issues"
+  },
+  "homepage": "https://github.com/kltjco/color-game#readme",
+  "dependencies": {
+    "github-pages": "^3.0.2"
+  }
+}
